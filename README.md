@@ -1,2 +1,2 @@
-# stardust
-startdust is  a simple and fast language
+# stardust(星尘)
+星尘是一门简单，快速的语言，特点是将多线程的细节隐藏在内核实现中，在用户态只需要写单线程的代码，底层会自动优化为多线程的内容。
